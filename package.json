@@ -1,0 +1,11 @@
+{
+  "name": "vote_dapp",
+  "version": "1.0",
+  "description": "A simple project to demonstrate how works dapps",
+  "author": "falehenrique",
+  "repository": "https://github.com/falehenrique/vote_dapp.git",
+  "devDependencies": {
+    "solc": "^0.4.24",
+    "web3": "^0.20.7"
+  }
+}
